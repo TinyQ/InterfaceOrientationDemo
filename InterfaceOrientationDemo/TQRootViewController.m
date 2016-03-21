@@ -21,7 +21,6 @@
     self.title = @"I`m Root";
     self.view.backgroundColor = [UIColor whiteColor];
     
-    
     UIButton *button = [[UIButton alloc] initWithFrame:CGRectMake(0, 100, 100, 50)];
     [button setTitle:@"Push A" forState:UIControlStateNormal];
     [button setBackgroundColor:[UIColor blueColor]];

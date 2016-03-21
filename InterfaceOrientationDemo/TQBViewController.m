@@ -18,13 +18,10 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
     self.title = @"I`m B";
-    
-    
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 - (BOOL)shouldAutorotate
